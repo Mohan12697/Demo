@@ -1,0 +1,32 @@
+Installing python
+download above 3.7 in python.org while installing tick that add 3.7 box and click installing exe or customize
+Install IDE 
+In IDE   select the file path or saving the file and then click vir env see the version of python in lib select the file format you want write program (like .py,html )
+after installed the IDE check whetther python IDLE shell is enable or not.
+
+import sys
+print(sys.version)
+............................................................................................................
+Basic
+
+Indentation -- for space
+colon :
+functions
+
+primitives --- numbers,strings
+collections -- lists,diciionary,sets
+control statements if,else,elseif,loops
+range,in,i/p.o/p,tuples
+
+
+code exec in pythone
+                    ------------ interpreter-----------------------
+source --- complier---byte codes---python vir machine ---running code
+
+# Numbers 
+# integers 1 2 3 4 5 
+# float 1.2 5.6 9.5 10.50 
+# complex 5+2j 
+#power (3 ** 3)
+print(3 // 2)  --- % 0r same 
+# - * / + ** % 
